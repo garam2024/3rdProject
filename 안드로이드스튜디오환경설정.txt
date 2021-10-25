@@ -1,0 +1,9 @@
+BIOS 설정 (ASUS 버전)
+1. 컴퓨터 재부팅 
+2. Del키 누르기 -> BIOS 설정창 이동 
+3. F7 (Advanced Mode)
+4. 고급메뉴 -> CPU 구성 
+5. 스크롤 맨아래로 이동
+  -> Intel Virtuallization Technology 항목 
+  -> 비활성화를 활성화로 변경 
+6. 변경사항 저장 후 재시작
